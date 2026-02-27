@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/quantum-forge-logo.png" width="220" alt="Quantum Forge Logo" />
+<img src="./assets/quantum-forge-logo.jpg" width="220" alt="Quantum Forge Logo" />
 
 <br />
 <br />
